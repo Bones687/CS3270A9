@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CS3270A9</string>
+    <string name="no_courses">No Courses</string>
+    <string name="menuitem_add">Add</string>
+    <string name="menuitem_import">Import</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="button_save_course">Save Course</string>
+    <string name="hint_id">Id (Required)</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_course_code">Course Code</string>
+    <string name="hint_start_at">Starts At</string>
+    <string name="hint_end_at">Ends At</string>
+    <string name="hint_state">State</string>
+    <string name="hint_zip">Zip</string>
+    <string name="label_id">Id:</string>
+    <string name="label_name">Name:</string>
+    <string name="label_course_code">Course Code:</string>
+    <string name="label_start_at">Starts At:</string>
+    <string name="label_end_at">Ends At:</string>
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the course</string>
+    <string name="ok">OK</string>
+    <string name="error_message">You must enter a course name</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
